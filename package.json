@@ -2,7 +2,13 @@
   "name": "mobx-react-typescript-example",
   "version": "1.0.0",
   "description": "create react todo app using mobx and typescript",
-  "keywords": [],
+  "keywords": [
+    "ReactJS",
+    "Mobx",
+    "Typescript",
+    "React-Toastify",
+    "Material-UI"
+  ],
   "main": "src/index.tsx",
   "dependencies": {
     "@material-ui/core": "4.7.2",
